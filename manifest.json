@@ -1,7 +1,7 @@
 {
     "name": "Holloheim_Modpack",
     "version_number": "1.0.0",
-    "website_url": "",
+    "website_url": "https://github.com/lauren-mods/Holloheim-Modpack",
     "description": "Modpack for private server.",
     "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.1901",

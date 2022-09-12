@@ -1,0 +1,9 @@
+{
+    "name": "Holloheim_Modpack",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "Modpack for private server.",
+    "dependencies": [
+        ""
+    ]
+}

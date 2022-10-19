@@ -2,7 +2,8 @@
 
 ## About
 
-<https://valheim.thunderstore.io/package/Laurenmods/Holloheim_Modpack/>
+<https://valheim.thunderstore.io/package/Laurenmods/Holloheim_Modpack/>  
+<https://github.com/lauren-mods/Holloheim-Modpack>
 
 This is a modpack for a private server. It contains lots of config files, so download at your own risk!
 
@@ -10,7 +11,7 @@ This is a modpack for a private server. It contains lots of config files, so dow
 
 ### 1.4 
 
-### 1.3
+### 1.3 (19/10/22)
 
 ***Please Remove 'Better Wards'.*** We didn't use it so I have uninstalled from the server.
 

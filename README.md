@@ -9,7 +9,7 @@ This is a modpack for a private server. It contains lots of config files, so dow
 
 ## Updating Instructions & Changes
 
-### 1.4
+### 1.4 (19/10/22)
 
 Fix manifest mistake
 

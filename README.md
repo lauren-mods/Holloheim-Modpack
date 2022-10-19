@@ -8,6 +8,8 @@ This is a modpack for a private server. It contains lots of config files, so dow
 
 ## Updating Instructions & Changes
 
+### 1.4 
+
 ### 1.3
 
 ***Please Remove 'Better Wards'.*** We didn't use it so I have uninstalled from the server.

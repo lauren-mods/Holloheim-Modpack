@@ -3,6 +3,7 @@
 ## About
 
 <https://valheim.thunderstore.io/package/Laurenmods/Holloheim_Modpack/>
+<https://github.com/lauren-mods/Holloheim-Modpack>
 
 This is a modpack for a private server. It contains lots of config files, so download at your own risk!
 

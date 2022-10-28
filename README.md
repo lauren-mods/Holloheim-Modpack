@@ -11,7 +11,7 @@ This is a modpack for a private server. It contains lots of config files, so dow
 
 ### 2.0 (28/10/22)
 
-Install with a CLEAN profile as many mods have been removed.  
+Install with a CLEAN profile as many changes have been made.  
 
 - Removed all mods that are currently not working with patch 0.211.11 (those that use ServerSync).
 - Downgraded to an old version of Hearthstone. RESET YOUR HEARTHSTONE POINT. Hearthstones in this version must be crafted at a workbench.

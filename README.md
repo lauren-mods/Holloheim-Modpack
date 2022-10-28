@@ -9,6 +9,15 @@ This is a modpack for a private server. It contains lots of config files, so dow
 
 ## Updating Instructions & Changes
 
+### 2.0 (28/10/22)
+
+Install with a CLEAN profile as many mods have been removed.  
+
+- Removed all mods that are currently not working with patch 0.211.11 (those that use ServerSync).
+- Downgraded to an old version of Hearthstone. RESET YOUR HEARTHSTONE POINT.
+- Replaced Farming with MassFarming as it works with patch and has a similar grid feature.
+- Added a no raids mod. This is for playing solo as we can't use the devcommand 'stopevent'. DISABLE the mod in mod manager when playing together.
+
 ### 1.5 (19/10/22)
 
 Upload error with 1.4

@@ -9,6 +9,15 @@ This is a modpack for a private server. It contains lots of config files, so dow
 
 ## Updating Instructions & Changes
 
+### 2.1 (29/10/22)
+
+If you installed 2.0, then you only need to update. If you did not install 2.0, then please do a clean install (as instructed in 2.0).
+
+- Plant everything is back, yay
+- Server Dev Commands is also back
+- Added a surprise mod for the mountain age... (don't look at your list if you don't want spoilers)
+- Keeping the no raids mod, so please disable in mod manager before playing together
+
 ### 2.0 (28/10/22)
 
 Install with a CLEAN profile as many changes have been made.  

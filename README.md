@@ -11,6 +11,8 @@ This is a modpack for a private server. It contains lots of config files, so dow
 
 ### 2.1 (29/10/22)
 
+#### 2.1.1 fixes a small mistake
+
 If you did not install 2.0, then please do a clean install (as instructed in 2.0). If you installed 2.0, then you only need to update.
 
 - Plant everything is back, yay

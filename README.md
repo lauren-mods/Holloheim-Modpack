@@ -9,12 +9,11 @@ This is a modpack for a private server. It contains lots of config files, so dow
 
 ## Updating Instructions & Changes
 
-### 2.2 (soon)
+### 2.2 (8/11/22)
 
 - changed the hotkey for moving the inventory panels around from LeftCtrl to LeftAlt (because keep moving by accident)
 - Farming mod is back (yay). Character progress will have been reset, so use the (devcommands) command: `raiseskill farming [amount]` e.g. `raiseskill farming 20` to restore progress.
 - Please ***uninstall*** MassFarming
-- trying out 'sleep please' 
 
 ### 2.1 (29/10/22)
 

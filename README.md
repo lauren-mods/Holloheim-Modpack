@@ -9,6 +9,10 @@ This is a modpack for a private server. It contains lots of config files, so dow
 
 ## Updating Instructions & Changes
 
+### 2.3
+
+lots of changes, mostly getting ready for mistlands compatibility
+
 ### 2.2 (8/11/22)
 
 - changed the hotkey for moving the inventory panels around from LeftCtrl to LeftAlt (because keep moving by accident)

@@ -9,6 +9,10 @@ This is a modpack for a private server. It contains lots of config files, so dow
 
 ## Updating Instructions & Changes
 
+### 2.3.1
+
+removed mass farming which was not backwards compatible with hearth and home
+
 ### 2.3
 
 lots of changes, mostly getting ready for mistlands compatibility

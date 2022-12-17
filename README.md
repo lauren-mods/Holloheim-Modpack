@@ -75,8 +75,6 @@ Fix manifest mistake
 
 ## Hotkeys & Commands List
 
-*This is an incomplete list so far.*
-
 ### Server Dev Commands
 
 #### Command Aliases

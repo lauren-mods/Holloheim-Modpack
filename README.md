@@ -12,8 +12,9 @@ This is a modpack for a private server. It contains lots of config files, so dow
 ### 2.3.2
 
 Some config changes and updates.  
-In cheat mode (devcommands) the console command alias 'repair10' repairs all objects within a 10m radius.
-Quick ping hotkeys are 't' for live ping and 'g' for pinning on the map. They ping what you are looking at (crosshairs). Changing the hotkeys is not advised as it seems to bug.
+
+- In cheat mode (devcommands) the console command alias `repair10` repairs all objects within a 10m radius.
+- Quick ping hotkeys are 't' for live ping and 'g' for pinning on the map. They ping what you are looking at (crosshairs). Changing the hotkeys is not advised as it seems to bug.
 
 ### 2.3.1
 

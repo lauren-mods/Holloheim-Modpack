@@ -9,7 +9,7 @@ This is a modpack for a private server. It contains lots of config files, so dow
 
 ## Updating Instructions & Changes
 
-### 2.3.2
+### 2.3.2 (17/12/22)
 
 Some config changes and updates including but not limited to:  
 
